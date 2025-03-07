@@ -1,0 +1,35 @@
+{
+  "about_title": {
+    "id": "Tentang Saya",
+    "en": "About Me"
+  },
+  "about_desc": {
+    "id": [
+      "Halo! Saya Roy Natanael Nainggolan, seorang pengembang perangkat lunak dengan pengalaman lebih dari 7 tahun dalam menciptakan solusi perangkat lunak yang inovatif dan efisien. Sepanjang karier saya, saya telah bekerja dengan berbagai klien dan industri, selalu berusaha untuk terus belajar dan menerapkan teknologi terbaru untuk menyelesaikan tantangan yang kompleks.",
+      "Saya berkomitmen untuk menulis kode yang bersih dan dapat dipelihara. Saya berkembang dalam lingkungan kolaboratif dan menikmati bekerja dengan tim lintas fungsi untuk mewujudkan ide-ide. Tujuan saya adalah untuk terus berkembang sebagai seorang pengembang, memanfaatkan keterampilan dan pengalaman saya untuk menciptakan perangkat lunak yang memberikan dampak yang berarti."
+    ],
+
+    "en": [
+      "Hello! I'm Roy Natanael Nainggolan, a software developer with over 7 years of experience in creating innovative and efficient software solutions. Throughout my career, I have worked with various clients and industries, always striving to learn and apply the latest technologies to solve complex challenges.",
+      "I am committed to writing clean, maintainable code while focusing on delivering high-quality products. I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life. My goal is to continue growing as a developer, leveraging my skills and experience to create software that makes a meaningful impact."
+    ]
+  },
+
+  "edu_title": {
+    "id": "Pendidikan",
+    "en": "Education"
+  },
+
+  "edu_desc": {
+    "id": {
+      "name": "STT. Sinar Husni Medan",
+      "major": "Teknik Informatika",
+      "graduated": 2017
+    },
+    "en": {
+      "name": "STT. Sinar Husni Medan",
+      "major": "Computer Science",
+      "graduated": 2017
+    }
+  }
+}
